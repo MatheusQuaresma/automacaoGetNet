@@ -1,0 +1,25 @@
+{
+  "modalNegociacaoConcluida":{
+    "titelModalNegociacaoConcluida": "Eu concluí a negociação, de que forma receberei meu boleto?",
+    "linha_1": "O boleto será enviado para seu endereço de e-mail registrado em Cadastro",
+    "linha_2": "Portal do Cliente",
+    "linha_3": "Acesse: www.santandergetnet.com.br",
+    "linha_4": "Preencha seu login e senha para acessar a área restrita do Portal",
+    "linha_5": "No menu à esquerda, clique em Solução de Dívidas",
+    "linha_6": "No menu à esquerda, clique em Solução de Dívidas",
+    "linha_7": "Acesse: http://portal.getnet-tecnologia.com.br",
+    "linha_8": "Preencha seu login e senha para acessar a área restrita do Portal",
+    "linha_9": "No menu à esquerda, clique em Menu Telefonia",
+    "linha_10": "Clique em Financeiro e na sequência, em Soluções de Dívidas"
+  },
+  "modalPossoVenderDebitoOuBoleto":{
+    "titelModalPossoVenderDebitoOuBoleto": "Posso vender com boleto e/ou débito?",
+    "linha_1": "Não, no momento estão disponíveis apenas as opções de crédito à vista ou parcelado para vendas na Loja Digital."
+  },
+  "modalPossoAberturaDeConta":{
+    "titelModalPossoVenderDebitoOuBoleto": "Como faço para abrir uma Get Conta? Preciso ter uma máquina de cartão?",
+    "linha_1": "Para abrir uma Get Conta, basta acessar o nosso site, escolher uma máquina de aluguel ou compra e optar por receber suas vendas na Conta. A abertura da conta é feita na hora e você terá acesso a um cartão pré-pago gratuitamente para fazer compras nas lojas de todo Brasil e online. Caso não queira ter uma máquina, você pode abrir uma conta para realizar transferências, pagamentos de boletos e ter com um cartão pré-pago. Solicite através do credenciamento digital na aba "
+  }
+ 
+
+}
